@@ -1,0 +1,9 @@
+.idea
+*.log
+.vscode
+.venv
+__pycache__/
+*.pyc
+.python-version
+package/
+*.zip
